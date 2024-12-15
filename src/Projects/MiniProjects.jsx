@@ -15,7 +15,7 @@ import Weather_forecast from "../assets/images/Mini_project_12.png";
 import chakkraUi_job_lending_page from "../assets/images/Mini_project_13.png";
 import Random_Image_Generator from "../assets/images/Mini_project_14.png";
 import Advance_todo_app_rander_api from "../assets/images/Mini_project_15.png";
-import Dipawali_2024 from "../assets/images/Dipawali_2024.png";
+import Dipawali_2024 from "../assets/images/Mini_project_16.png";
 import projectSide from "../assets/images/projectSide.png";
 import { Pagination, Autoplay } from "swiper";
 import { BsGithub } from "react-icons/bs";
