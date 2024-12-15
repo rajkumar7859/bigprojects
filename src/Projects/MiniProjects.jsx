@@ -15,6 +15,7 @@ import Weather_forecast from "../assets/images/Mini_project_12.png";
 import chakkraUi_job_lending_page from "../assets/images/Mini_project_13.png";
 import Random_Image_Generator from "../assets/images/Mini_project_14.png";
 import Advance_todo_app_rander_api from "../assets/images/Mini_project_15.png";
+import Dipawali_2024 from "../assets/images/Dipawali_2024.png";
 import projectSide from "../assets/images/projectSide.png";
 import { Pagination, Autoplay } from "swiper";
 import { BsGithub } from "react-icons/bs";
@@ -139,6 +140,14 @@ const MiniProjects = () => {
           github_link:
             "https://github.com/rajkumar7859/All_React_app/tree/main/Advance_todo_app_with_rander_api",
           live_link: "https://4bexsq.csb.app/",
+        },
+        {
+          img: Dipawali_2024,
+          name: "Wish happy dipawali 2024.",
+          description:"Welcome to **Happy Diwali**, a festive web application created using React and Tailwind CSS! This application allows users to enter their names and receive personalized Diwali wishes.",
+          github_link:
+            "https://github.com/rajkumar7859/All_React_app/tree/main/dipawali_2024",
+          live_link: "https://happy-dipawli-2024.vercel.app/",
         },
       ];
 
