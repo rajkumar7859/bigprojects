@@ -43,7 +43,7 @@ const MiniProjects = () => {
           name: "Typing test website",
           description:"This is Typing Test website! This application allows users to test and improve their typing speed and accuracy. The test is designed with various features to provide a comprehensive typing experience, including live tracking of typing accuracy, words per minute (WPM), key count, and more.",
           github_link:
-            "https://github.com/masai-course/Rajkumar_fw18_0315/tree/master/codingmock6/todoappmock",
+            "https://github.com/rajkumar7859/All_React_app/tree/main/company_assignment_Typing_test_masai/Chaabi_assing",
           live_link: "https://chaabiassigntypingtestreact-rajkumar7859s-projects.vercel.app/",
         },
         {
@@ -58,7 +58,7 @@ const MiniProjects = () => {
           name: "User sign up, login and Todo app",
           description:"Task Manager Web App is a React.js and Tailwind CSS application that allows users to securely sign up, log in, and manage tasks. It features a modern, responsive design and includes user authentication for managing tasks efficiently",
           github_link:
-            "https://github.com/masai-course/Rajkumar_fw18_0315/tree/master/codingmock6/todoappmock",
+            "https://github.com/rajkumar7859/All_React_app/tree/main/todoappmock",
           live_link: "https://todoappmock.vercel.app/",
         },
         {
