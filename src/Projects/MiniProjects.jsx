@@ -66,7 +66,7 @@ const MiniProjects = () => {
           name: "job Tracker website",
           description:"Job Application Tracker is a user-friendly web application designed to streamline the process of managing job applications. The application allows users to easily submit their job application details, view a list of their applied jobs, and manage their bookmarked entries.",
           github_link:
-            "https://github.com/rajkumar7859/All-codes/tree/main/job%20app%20full%20done",
+            "https://github.com/rajkumar7859/All-codes/tree/main/job_app_full_done",
           live_link: "https://lucent-brioche-5a0c20.netlify.app/",
         },
         {
